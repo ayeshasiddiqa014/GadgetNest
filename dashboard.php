@@ -208,7 +208,7 @@ function addToOrder($product_name, $quantity, $username, $conn) {
             <u><h2>Our Products</h2></u>             
             <ul>                 
                 <li><b><i>LAPTOP</i></b><br>                     
-                <img src="images/hp.jpg" alt="Hp Elite X2" width="180px"> 
+                <img src="hp.jpg" alt="Hp Elite X2" width="180px"> 
                     <i><p>Hp Elite x2 - $800</p></i>                 
                 </li>                 
                 <li><b><i>CAMERA</i></b><br>                     
