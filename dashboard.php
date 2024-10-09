@@ -208,7 +208,7 @@ function addToOrder($product_name, $quantity, $username, $conn) {
             <u><h2>Our Products</h2></u>             
             <ul>                 
                 <li><b><i>LAPTOP</i></b><br>                     
-                <img src="https://www.paklap.pk/pub/media/catalog/product/cache/7e76858baa02afd4bb6d466a87d0383e/h/p/hp-elitex2-1012-g2-7300u-7thgen-ci5-12.3inch-touch-tablet-pc-laptop-price-in-pakistan.jpg" alt="Hp Elite X2" width = 180px>  
+                <img src="hp.jpg" alt="Hp Elite X2" width = 180px>  
                     <i><p>Hp Elite x2 - $800</p></i>                 
                 </li>                 
                 <li><b><i>CAMERA</i></b><br>                     
