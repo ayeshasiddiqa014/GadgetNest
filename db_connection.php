@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";  // Change if necessary
-$username = "admin";     // Replace with your database username
-$password = "admin";    // Replace with your database password
+$username = "new_admin";     // Replace with your database username
+$password = "admin123";    // Replace with your database password
 $dbname = "web_app";         // Replace with your database name
 
 // Create connection
