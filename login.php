@@ -11,8 +11,8 @@ if (isset($_SESSION['username'])) {
 // Check if the login form has been submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $db_server = "localhost";
-    $db_username = "admin"; // Your MySQL username
-    $db_password = "admin";     // Your MySQL password
+    $db_username = "new_admin"; // Your MySQL username
+    $db_password = "admin123";     // Your MySQL password
     $db_name = "web_app";  // Your database name
 
     // Create a database connection
