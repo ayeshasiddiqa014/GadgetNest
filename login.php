@@ -12,8 +12,8 @@ if (isset($_SESSION['username'])) {
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Replace these values with your actual database credentials
     $db_server = "localhost";
-    $db_username = "admin"; // Your MySQL username
-    $db_password = "admin";     // Your MySQL password (if any)
+    $db_username = "new_admin"; // Your MySQL username
+    $db_password = "admin123";     // Your MySQL password (if any)
     $db_name = "web_app";  // Your database name
 
     // Create a database connection
